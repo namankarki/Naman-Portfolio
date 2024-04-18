@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "role": "Apex Ideathon Winner",
+    "organisation": "Apex IT Club",
+    "startDate": "10th Feburary 2023",
+    "endDate": "13th Feburary 2023",
+    "location": "Mid-Baneshor, Kathmandu",
+    "experiences": ["Air pollution Detection System"],
+    "imageSrc": "company/apex.jpg"
+  },
+  {
+    "id": 2,
+    "role": "TechTrix Organizer (Voluntary Experience)",
+    "organisation": "TechTrix-Nepal",
+    "startDate": "19th September 2023",
+    "endDate": "22nd September 2023",
+    "location": "Shantinagar, Kathmandu",
+    "experiences": ["Organizer"],
+    "imageSrc": "company/techtrix.jpg"
+  }
+]

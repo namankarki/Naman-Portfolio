@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "To be added",
+    "imageSrc": "https://ccdcboise.com/wp-content/uploads/2015/02/upcoming-projects.jpg",
+    "description": "It will be added soon",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "To be added",
+    "imageSrc": "https://ccdcboise.com/wp-content/uploads/2015/02/upcoming-projects.jpg",
+    "description": "It will be added soon",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "To be added",
+    "imageSrc": "https://ccdcboise.com/wp-content/uploads/2015/02/upcoming-projects.jpg",
+    "description": "It will be added soon",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "To be added",
+    "imageSrc": "https://ccdcboise.com/wp-content/uploads/2015/02/upcoming-projects.jpg",
+    "description": "It will be added soon",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
