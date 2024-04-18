@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Naman-Portfolio/static/css/main.0b884b6f.css",
+    "main.js": "/Naman-Portfolio/static/js/main.e5df94a1.js",
+    "static/js/453.ed3810f9.chunk.js": "/Naman-Portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/Naman Bikram Karki.pdf": "/Naman-Portfolio/static/media/Naman Bikram Karki.15012f47fafce2298b9e.pdf",
+    "index.html": "/Naman-Portfolio/index.html",
+    "main.0b884b6f.css.map": "/Naman-Portfolio/static/css/main.0b884b6f.css.map",
+    "main.e5df94a1.js.map": "/Naman-Portfolio/static/js/main.e5df94a1.js.map",
+    "453.ed3810f9.chunk.js.map": "/Naman-Portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b884b6f.css",
+    "static/js/main.e5df94a1.js"
+  ]
+}
